@@ -2,3 +2,9 @@
   color: red;
   font-style: italic;
 }
+
+.best {
+  font-size: larger;
+  font-weight: bold;
+  color: lightpink;
+}
